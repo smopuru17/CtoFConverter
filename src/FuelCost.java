@@ -63,7 +63,7 @@ public class FuelCost
     double distancePerMile = gallons * fuelEff;
 
     System.out.println("The total cost of gas per 100miles: $" + costPerMile);
-    System.out.println("Maximum distance that the car can travel " + distancePerMile);
+    System.out.println("Maximum distance that the car can travel " + distancePerMile + " miles.");
     }
 }
 
